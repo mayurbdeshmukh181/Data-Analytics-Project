@@ -1,27 +1,26 @@
 # Data-Analytics-Project
-Sales & Customer Analytics Project
+# Sales & Customer Analytics Project
 
 
-Project Overview:
+## Project Overview:
 
 This project analyzes sales performance, customer behavior, product trends, and sales target achievement from 2018 to 2021. The objective is to extract actionable insights to support data-driven business decisions and optimize regional strategies.
+---
 
+# Tools and Technologies:
 
-Tools and Technologies:
+**PostgreSQL** - For data extraction and analysis using SQL queries.
 
-*PostgreSQL for data extraction and analysis using SQL queries.
+**Microsoft Excel** - For data visualization and supplementary analysis.
+---
 
-*Microsoft Excel for data visualization and supplementary analysis.
+# Datasets Used:
 
+**Orders** : Transactional sales details including order date, quantity, discounts, profits, etc.
 
+**Customers**: Customer identification and details.
 
-Datasets Used:
-
-Orders: Transactional sales details including order date, quantity, discounts, profits, etc.
-
-Customers: Customer identification and details.
-
-Products: Product categories, sub-categories, and names.
+**Products**: Product categories, sub-categories, and names.
 
 Returns: Information on product returns.
 
