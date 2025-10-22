@@ -54,7 +54,7 @@ Seasonal and yearly sales trends indicate growth patterns and periods of fluctua
 Customer segments show distinct profitability and purchase behaviors.
 
 Pareto analysis revealed that the top 20% of customers contribute nearly 50% of revenue.
-![Pareto Analysis](images/Pareto analysis.png)
+![Pareto Analysis](images/Pareto_analysis.png)
 
 
 The West region dominates order volume and revenue, while the South region consistently underperforms against sales targets.
